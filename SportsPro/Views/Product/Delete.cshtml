@@ -1,0 +1,13 @@
+﻿@model SportsPro.Models.Product
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="ProductID" />
+
+    <button type="submit" class="btn btn-primary">Delete</button>
+    <a asp-asp-controller="Home" asp-action="Index" class="btn btn-primary">Cancel</a>
+</form>
