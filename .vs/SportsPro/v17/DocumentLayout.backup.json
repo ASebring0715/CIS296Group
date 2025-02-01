@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\technician\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\technician\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\technician\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\technician\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\technician\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\technician\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|c:\\users\\amanda.sebring\\desktop\\group project\\sportspro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C761FB31-20D3-45A8-A9DF-CCA9B2E93375}|SportsPro\\SportsPro.csproj|solutionrelative:sportspro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\List.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Technician\\List.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\List.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Technician\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T22:38:17.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Technician\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\Delete.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Technician\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T22:38:05.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Technician\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Technician\\Edit.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Technician\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T22:37:33.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TechnicianController.cs",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\TechnicianController.cs",
+              "RelativeDocumentMoniker": "SportsPro\\Controllers\\TechnicianController.cs",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\TechnicianController.cs",
+              "RelativeToolTip": "SportsPro\\Controllers\\TechnicianController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T22:33:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SportsPro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SportsPro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:36:16.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SportsPro\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Models\\Product.cs",
+              "RelativeToolTip": "SportsPro\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:15:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T21:10:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T21:42:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SportsPro\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "SportsPro\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T20:53:06.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SportsPro\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\amanda.sebring\\Desktop\\Group Project\\SportsPro\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SportsPro\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T20:32:31.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
